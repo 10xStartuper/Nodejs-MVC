@@ -1,0 +1,20 @@
+{
+  "name": "educatorlms",
+  "version": "1.0.0",
+  "description": "EducatorLMS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "",
+    "lint": ""
+  },
+  "keywords": [
+    "LMS",
+    "Education",
+    "Online",
+    "Courses"
+  ],
+  "author": "Mukhammadyusuf Abdurakhimov",
+  "license": "ISC"
+}
