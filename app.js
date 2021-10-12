@@ -6,12 +6,8 @@ app.set("view engine", "ejs");
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-const userRoutes = require("./routes/api/users");
-app.use(userRoutes);
-
-app.get("/", (req, res) => {
-  res.send("Home route");
-});
+const routes = require("./routes/index");
+app.use(routes);
 
 app.listen(
   process.env.PORT || 3000,
