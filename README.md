@@ -6,18 +6,18 @@
 
 **Installing dependencies:**
 
-```
+```bash
 npm install
 ```
 
 **Development mode:**
 
-```
+```bash
 npm run dev
 ```
 
 **Production mode:**
 
-```
+```bash
 npm run start
 ```
