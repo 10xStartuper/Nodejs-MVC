@@ -1,37 +1,23 @@
-## Nodejs-MVC
+# Nodejs-MVC
 
-You can use the [editor on GitHub](https://github.com/MrAbdurakhimov/Nodejs-MVC/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Model–view–controller** (usually known as **MVC**) _is a software design pattern commonly used for developing user interfaces that divide the related program logic into three interconnected elements. This is done to separate internal representations of information from the ways information is presented to and accepted from the user._
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Installation
 
-### Markdown
+**Installing dependencies:**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+npm install
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Development mode:**
 
-### Jekyll Themes
+```
+npm run dev
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MrAbdurakhimov/Nodejs-MVC/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Production mode:**
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```
+npm run start
+```
