@@ -7,6 +7,7 @@ router.get("/", (req, res) => {
 
 router.use("/api", require("./api/"));
 router.use("/dashboard", require("./dashboard"));
+router.use("/sections", require("./sections"));
 router.get("*", (req, res) => {
   res.status(404).json({ message: "Page not found" });
 });

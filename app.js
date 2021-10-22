@@ -10,5 +10,5 @@ app.use(require("./routes/index")); //initializing routes
 
 app.listen(
   process.env.PORT || 3000,
-  console.log("Application has been started on the port: http://localhost:3000")
+    ()=> console.log("Application has been started on the port: http://localhost:3000")
 );
