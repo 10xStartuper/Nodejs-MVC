@@ -4,6 +4,13 @@
 
 ## Installation
 
+
+**Clone the repository:**
+
+```bash
+git clone git@github.com:MrAbdurakhimov/Nodejs-MVC.git
+```
+
 **Installing dependencies:**
 
 ```bash
