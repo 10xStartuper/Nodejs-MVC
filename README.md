@@ -4,6 +4,12 @@
 
 ## Installation
 
+**Clone the repository:**
+
+```bash
+git clone git@github.com:MrAbdurakhimov/Nodejs-MVC.git
+```
+
 **Installing dependencies:**
 
 ```bash
@@ -21,3 +27,5 @@ npm run dev
 ```bash
 npm run start
 ```
+
+[img](<img src="https://happycoding.io/images/logo-vertical-large.png" width="100%">)
