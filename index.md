@@ -4,20 +4,29 @@
 
 ## Installation
 
+
+**Clone the repository:**
+
+```bash
+git clone git@github.com:MrAbdurakhimov/Nodejs-MVC.git
+```
+
 **Installing dependencies:**
 
-```
+```bash
 npm install
 ```
 
 **Development mode:**
 
-```
+```bash
 npm run dev
 ```
 
 **Production mode:**
 
-```
+```bash
 npm run start
 ```
+
+<img src="https://happycoding.io/images/logo-vertical-large.png" width="100%">
