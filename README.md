@@ -28,4 +28,4 @@ npm run dev
 npm run start
 ```
 
-[img](<img src="https://happycoding.io/images/logo-vertical-large.png" width="100%">)
+![img](https://happycoding.io/images/logo-vertical-large.png)
