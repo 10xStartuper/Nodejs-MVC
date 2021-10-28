@@ -28,3 +28,5 @@ npm run dev
 ```bash
 npm run start
 ```
+
+<img src="https://happycoding.io/images/logo-vertical-large.png" width="100%">
